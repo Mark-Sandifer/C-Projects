@@ -1,0 +1,4 @@
+Freshwater,Cartilaginous fish,Lake Sturgeon,LakeSturgeon.jpg,This type of fish is a Sturgeon.,
+Saltwater,Cartilaginous fish,Whale Shark,WhaleShark.jpeg,This type of fish is a Shark.,
+Saltwater,Ray-Finned fish,Tuna,Tuna.png,This type of fish is a Tuna.,
+Freshwater,Ray-Finned fish,European Chub,EuropeanChub.jpg,This type of fish is a chub.,
